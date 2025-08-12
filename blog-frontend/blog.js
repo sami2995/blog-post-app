@@ -1,4 +1,4 @@
-const api = 'https://blog-post-app-bzdb.onrender.com';  // your backend URL
+const api = 'https://blog-post-app-bzdb.onrender.com/api/blogs';  // your backend URL
 
 const form = document.getElementById('blogForm');
 const blogsContainer = document.getElementById('blogsContainer');
