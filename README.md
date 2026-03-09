@@ -40,7 +40,7 @@ PORT=5000
 
 **For MongoDB Atlas (Cloud):**
 - Get your connection string from MongoDB Atlas dashboard
-- Format: `mongodb+srv://username:password@cluster.mongodb.net/database_name?retryWrites=true&w=majority`
+- Format: `
 
 **For Local MongoDB:**
 - Format: `mongodb://localhost:27017/blog-app`
