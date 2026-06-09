@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Blog Post App
 
 A modern, full-stack blog application with enhanced UI and features.
@@ -143,6 +142,3 @@ blog-post-app/
 - Use `npm run dev` for development (auto-reloads on file changes)
 - Check browser console for any JavaScript errors
 - Use Network tab in browser DevTools to debug API calls
-=======
-full stack blog post app
->>>>>>> 641ac69eab0579ce210bccd7a6163e70e3fd3ebf
